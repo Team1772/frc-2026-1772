@@ -10,7 +10,7 @@
     "canbus": null
   },
   "encoder": {
-    "type": "cancoder",
+    "type": "ma3",
     "id": 1,
     "canbus": null
   },
